@@ -1,5 +1,5 @@
 
-# IA — Maestria Humana em Prompts
+   IA — Maestria Humana em Prompts
 
 Projeto de estudo sobre Inteligência Artificial e Engenharia de Prompts, com foco no uso consciente, responsável e prático da IA.
 
